@@ -5,8 +5,8 @@
 
 **🔭 Currently working on**: 
 
-- [Betterstream.tv](https://betterstream.tv/): tools for Twitch Streamers;
-- [Nop.is](https://nop.is): prevent multiple users to access the same simultaneously;
+- [Betterstream.tv](https://betterstream.tv/): Tools for Twitch Streamers;
+- [Nop.is](https://nop.is): Prevent multiple users to access the same simultaneously;
 
 **📦 Open Source Packages**:
 
