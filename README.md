@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Danilo, also known as "Theraloss"!
 
-[![Support me](https://img.shields.io/badge/💜-Support%20me-f471ff)](https://www.buymeacoffee.com/theraloss)
+[![Support me](https://img.shields.io/badge/💜-Support%20me-f471ff?style=for-the-badge)](https://www.buymeacoffee.com/theraloss)
+[![Social links](https://img.shields.io/badge/🔗-Social%20Links-00e4e8?style=for-the-badge)](https://linktr.ee/theraloss)
 
 <a href="https://github.com/danilopolani"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=danilopolani&show_icons=true" align="right" height="150" /></a>
 
