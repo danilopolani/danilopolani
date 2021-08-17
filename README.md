@@ -18,6 +18,7 @@
 - [Gocialite](https://github.com/danilopolani/gocialite): Social OAuth login in Go has never been so easy;
 - [Filament Memory Tracker](https://github.com/danilopolani/filament-memory-tracker): Track the memory usage of your workers and display them in [Filament](https://filamentadmin.com);
 - [Filament Plausible Widget](https://github.com/danilopolani/filament-plausible-widget): Add a fancy Plausible statistics widget to your Filament admin dashboard;
+- [Laravel FusionAuth JWT](https://github.com/danilopolani/laravel-fusionauth-jwt): Laravel Auth guard for FusionAuth JWT;
 - [Laravel Array Destructuring](https://github.com/danilopolani/laravel-array-destructuring): Powerful array destructuring for Laravel;
 - [GOsc](https://github.com/danilopolani/gosc): Simplify your waste-bytes helper functions;
 - [Fua](https://github.com/danilopolani/fua): Retrieve or generate a random User Agent in Go;
