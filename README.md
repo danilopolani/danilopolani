@@ -26,7 +26,7 @@
 
 **About me**
 
-- 👯 I’m happy to collaborate on projects I Love, mainly about **Laravel** or **PHP**, like [Filament](https://filamentadmin.com/), [Backpack](https://backpackforlaravel.com/), but also [Beekeper Studio](https://github.com/beekeeper-studio/beekeeper-studio).
+- 👯 I’m happy to collaborate on projects I love like [Filament](https://filamentadmin.com/), [Directus](https://directus.io/), [Backpack](https://backpackforlaravel.com/), but also [Beekeper Studio](https://github.com/beekeeper-studio/beekeeper-studio).
 - 📫 How to reach me: You can DM me on [Twitter](https://twitter.com/theraloss)!
 - ⚡ Fun fact: **Theraloss** is an elfic name. I got it from a random elfic name generator for my first D&D campaign.
 
