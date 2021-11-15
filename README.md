@@ -14,7 +14,7 @@
 **📦 Open Source Packages**:
 
 - [Twitch PubSub](https://github.com/danilopolani/twitch-pub-sub): Laravel integration with Twitch PubSub Web Sockets;
-- [Redache](https://github.com/danilopolani/redache): Friendly Redis caching library
+- [Redache](https://github.com/danilopolani/redache): Friendly Redis caching library for Node.js;
 - [Gocialite](https://github.com/danilopolani/gocialite): Social OAuth login in Go has never been so easy;
 - [Filament Memory Tracker](https://github.com/danilopolani/filament-memory-tracker): Track the memory usage of your workers and display them in [Filament](https://filamentadmin.com);
 - [Filament Plausible Widget](https://github.com/danilopolani/filament-plausible-widget): Add a fancy Plausible statistics widget to your Filament admin dashboard;
