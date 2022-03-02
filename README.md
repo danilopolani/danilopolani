@@ -20,6 +20,7 @@
 - [Filament Plausible Widget](https://github.com/danilopolani/filament-plausible-widget): Add a fancy Plausible statistics widget to your Filament admin dashboard;
 - [Laravel FusionAuth JWT](https://github.com/danilopolani/laravel-fusionauth-jwt): Laravel Auth guard for FusionAuth JWT;
 - [Laravel Array Destructuring](https://github.com/danilopolani/laravel-array-destructuring): Powerful array destructuring for Laravel;
+- [Laravel JSON validation testing](https://github.com/danilopolani/laravel-json-validation-testing): A better JSON validation errors testing;
 - [GOsc](https://github.com/danilopolani/gosc): Simplify your waste-bytes helper functions;
 - [Fua](https://github.com/danilopolani/fua): Retrieve or generate a random User Agent in Go;
 - [Python Rotating Proxy](https://github.com/danilopolani/rotating-proxy-python): Example of a rotating proxy crawler in Python.
