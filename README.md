@@ -27,7 +27,7 @@
 
 **About me**
 
-- 👯 I’m happy to collaborate on projects I love like [Filament](https://filamentadmin.com/), [Directus](https://directus.io/), [Backpack](https://backpackforlaravel.com/), but also [Beekeper Studio](https://github.com/beekeeper-studio/beekeeper-studio).
+- 👯 I’m happy to collaborate on projects I love like [Filament](https://github.com/laravel-filament/filament/pulls?q=is%3Apr+is%3Aclosed+author%3Adanilopolani), [Pest](https://github.com/pestphp/pest/pulls?q=is%3Apr+author%3Adanilopolani+is%3Aclosed), [Directus](https://github.com/directus/directus/pulls?q=is%3Apr+author%3Adanilopolani+is%3Aclosed), [Beekeper Studio](https://github.com/beekeeper-studio/beekeeper-studio/pulls?q=is%3Apr+author%3Adanilopolani+is%3Aclosed).
 - 📫 How to reach me: You can DM me on [Twitter](https://twitter.com/theraloss)!
 - ⚡ Fun fact: **Theraloss** is an elfic name. I got it from a random elfic name generator for my first D&D campaign.
 
