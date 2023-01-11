@@ -11,7 +11,6 @@
 - [Theraloss.com](https://theraloss.com): My blog. I put in there what I discover day-by-day and want to share with all of you;
 - [Nop.is](https://nop.is): Prevent multiple users to access the same simultaneously;
 - [Betterstream.tv](https://betterstream.tv/): Tools for Twitch Streamers;
-- [Piotta.app](https://www.piotta.app/): Your personal, secure, expenses tracking dashboard.
 
 **📦 Open Source Packages**:
 
